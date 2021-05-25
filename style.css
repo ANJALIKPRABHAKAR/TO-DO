@@ -1,0 +1,96 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#7784d1ba;  
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #4c64e9ba;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: #010202;  
+    padding: 20px;  
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}  
+#Username{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Password{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;
+    font-size: 18px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 8px;  
+    color: #000;  
+  
+  
+}  
+span{  
+    color: #000;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+}  
+table, th, td {  
+    border: 1px solid black;  
+    border-collapse: collapse;  
+}  
+th, td {
+    align-content: center;
+    padding: 10px;
+
+}
+  .center {
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 30%;
+  }
+  input[type=submit] {
+    background-color: #2139be;
+    color:rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  div{
+      text-align: center;
+      font-size: x-large;
+      font-weight: bold;
+      color: #000;
+  }
+  button{
+      align-content: center;
+      padding: 20px;
+      background-color: #2139be;
+      
+  }
